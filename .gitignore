@@ -1,0 +1,25 @@
+# Ignore customer and banking records
+
+bank_data.json
+
+# Ignore Python cache files
+
+**pycache**/
+*.py[cod]
+
+# Ignore virtual environments
+
+venv/
+.venv/
+env/
+
+# Ignore environment variables and secrets
+
+.env
+.env.*
+
+# Ignore editor and operating system files
+
+.vscode/
+.DS_Store
+Thumbs.db
